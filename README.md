@@ -39,7 +39,7 @@ This is Comment Format
 ### _Code single Line_
 
 #### with flutter
-`flutter pub add get`
+``flutter pub add get``
 
 #### This will add a line like this to your package's pubspec.yaml
 ```dart 
