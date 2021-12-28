@@ -9,7 +9,7 @@ This is Comment Format
 
 ### _GetX Image_
 
-![Get X](./lib/images/get.PNG)
+![Get X](lib\images\get.png)
 
 <br/>
 
