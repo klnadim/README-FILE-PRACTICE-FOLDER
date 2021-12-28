@@ -9,8 +9,12 @@ This is Comment Format
 
 ### _GetX Image_
 
+<<<<<<< HEAD
 ![Get X](lib\images\get.png)   
 
+=======
+![Get X](/lib/images/get.png)
+>>>>>>> 1f5a4f88715c1c52ed9334e9f663da7f9299b900
 
 <br/>
 
